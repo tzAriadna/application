@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/application/static/css/main.563efda5.chunk.css",
+    "main.js": "/application/static/js/main.0fe1c3c2.chunk.js",
+    "main.js.map": "/application/static/js/main.0fe1c3c2.chunk.js.map",
+    "runtime-main.js": "/application/static/js/runtime-main.1b6fb56b.js",
+    "runtime-main.js.map": "/application/static/js/runtime-main.1b6fb56b.js.map",
+    "static/js/2.6f3c7a00.chunk.js": "/application/static/js/2.6f3c7a00.chunk.js",
+    "static/js/2.6f3c7a00.chunk.js.map": "/application/static/js/2.6f3c7a00.chunk.js.map",
+    "index.html": "/application/index.html",
+    "static/css/main.563efda5.chunk.css.map": "/application/static/css/main.563efda5.chunk.css.map",
+    "static/js/2.6f3c7a00.chunk.js.LICENSE.txt": "/application/static/js/2.6f3c7a00.chunk.js.LICENSE.txt",
+    "static/media/Group.6b1e8646.png": "/application/static/media/Group.6b1e8646.png",
+    "static/media/Todo.module.css": "/application/static/media/bg.ec82ffac.jpg",
+    "static/media/About.module.css": "/application/static/media/global.096b46a1.png",
+    "static/media/Contacts.module.css": "/application/static/media/vk.66f471e5.png",
+    "static/media/fork.a232545d.svg": "/application/static/media/fork.a232545d.svg",
+    "static/media/star.66a6657c.svg": "/application/static/media/star.66a6657c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6fb56b.js",
+    "static/js/2.6f3c7a00.chunk.js",
+    "static/css/main.563efda5.chunk.css",
+    "static/js/main.0fe1c3c2.chunk.js"
+  ]
+}
